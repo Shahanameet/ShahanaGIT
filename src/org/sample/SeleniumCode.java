@@ -8,5 +8,8 @@ public class SeleniumCode {
 	public void javaCourse() {
 		System.out.println("Java Started");
 	}
+	public void pythonCourse() {
+		System.out.println("phyton Started");
+	}
 }
 		
